@@ -43,7 +43,7 @@ Perform mathematical operations to build layouts.
 ## My process
 
 "In summary, I started by installing, applying, and testing the functionality of Sass in the project.  
-Afterward, I created the header stylesheets and applied the variables. Then, we organized the `_root` with the base structure of the project and the `_variaveis` with all the variables used in the project. Next, I modularized the files and organized them into components and abstracts. In the header component, I replaced the values with variables. We worked with `@include`, `@use`, `@extend`, and `&:nth-child` in each section."
+Afterward, I created the header stylesheets and applied the variables. Then, we organized the `_root` with the base structure of the project, the `_variaveis` with all the variables used in the project and `_mixins` with two function: `ff-fs-cl` to font-family, font-size and font-color; and `margem-central` to center elements based on width. Next, I modularized the files and organized them into components and abstracts. In the header component, I replaced the values with variables. We worked with `@include`, `@use`, `@extend`, and `&:nth-child` in each section."
 
 ### Built with
 
