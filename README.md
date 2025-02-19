@@ -1,4 +1,4 @@
-# Frontend Mentor - Four card feature section solution
+# Alura - Calmaria SPA 
 
 Calmaria SPA is a solution to the [SASS e CSS: estilizando um site](https://cursos.alura.com.br/course/sass-css-estilizando-site). The structure was pre-assembled so that the lessons' tasks were focused on applying the SASS preprocessor resources.
 ## Table of contents
